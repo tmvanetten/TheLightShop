@@ -1,0 +1,6 @@
+framework module Pods_MoltinSwiftExample {
+  umbrella header "Pods-MoltinSwiftExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
